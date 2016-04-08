@@ -1,0 +1,14 @@
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Debug\ProjektMagisterskiPatrycjaTkocz.exe.config
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Debug\ProjektMagisterskiPatrycjaTkocz.exe
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Debug\ProjektMagisterskiPatrycjaTkocz.pdb
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\MainWindow.g.cs
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\App.g.cs
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz_MarkupCompile.cache
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz_MarkupCompile.lref
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\MainWindow.baml
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.g.resources
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.Properties.Resources.resources
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.csproj.GenerateResource.Cache
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.exe
+c:\users\patrycja\documents\visual studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.pdb
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Debug\ProjektMagisterskiPatrycjaTkocz.csprojResolveAssemblyReference.cache

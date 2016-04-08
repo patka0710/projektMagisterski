@@ -36,7 +36,7 @@ namespace gbest_PSO_Clustering
             double[] date8 = { 10, 4 };
             double[] date9 = { 2, 1 };
             double[] date10 = { 3, 1 };*/
-
+             // dwa wymiary
             double[] date = { 1, 2 };
             double[] date1 = {2, 2 };
             double[] date2 = {1, 1 };
@@ -48,7 +48,19 @@ namespace gbest_PSO_Clustering
             double[] date8 = {7, 9 };
             double[] date9 = {9, 9 };
             double[] date10 = {8, 6 };
+            
 
+            /*double[] date = { 1, 2, 1, 8 };
+            double[] date1 = { 2, 2, 1, 8 };
+            double[] date2 = { 1, 1, 1, 7 };
+            double[] date3 = { 3, 1, 3, 6 };
+            double[] date4 = { 3, 3, 3, 5 };
+            double[] date5 = { 4, 4, 3, 4 };
+            double[] date6 = { 6, 6, 2, 6 };
+            double[] date7 = { 8, 8, 7, 6 };
+            double[] date8 = { 7, 9, 2, 4 };
+            double[] date9 = { 9, 9, 2, 1 };
+            double[] date10 = { 8, 6, 3, 7};*/
 
             dataVector.Add(date);
             dataVector.Add(date1);

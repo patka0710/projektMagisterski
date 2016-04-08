@@ -7,3 +7,6 @@ C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\gbest_PSO_Clustering\gbe
 C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\bin\Debug\gbest_PSO_Clustering.exe.config
 C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\obj\Debug\gbest_PSO_Clustering.exe
 C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\obj\Debug\gbest_PSO_Clustering.pdb
+C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\bin\Debug\gbest_PSO_Clustering.exe
+C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\bin\Debug\gbest_PSO_Clustering.pdb
+C:\Users\Patrycja\Documents\projektMagisterski\gbest_PSO_Clustering\gbest_PSO_Clustering\obj\Debug\gbest_PSO_Clustering.csprojResolveAssemblyReference.cache

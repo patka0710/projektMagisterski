@@ -1,0 +1,16 @@
+\select@language {polish}
+\contentsline {section}{Wst\k ep}{3}
+\contentsline {section}{\numberline {1}\kernsekcyjny Eksploracja danych}{5}
+\contentsline {subsection}{\numberline {1.1}\kernsubsekcyjny Grupowanie danych}{8}
+\contentsline {subsection}{\numberline {1.2}\kernsubsekcyjny Istniej\IeC {\k a}ce algorytmy}{11}
+\contentsline {subsubsection}{\numberline {1.2.1}\kernsubsubsekcyjny Algorytmy proste}{11}
+\contentsline {subsubsection}{\numberline {1.2.2}\kernsubsubsekcyjny Algorytmy wykorzystuj\IeC {\k a}ce inteligencje stadn\IeC {\k a}}{12}
+\contentsline {section}{\numberline {2}\kernsekcyjny Optymalizacja stadna cz\IeC {\k a}steczki}{15}
+\contentsline {subsection}{\numberline {2.1}\kernsubsekcyjny Opis algorytmu PSO}{15}
+\contentsline {subsection}{\numberline {2.2}\kernsubsekcyjny Modyfikacje PSO}{17}
+\contentsline {subsection}{\numberline {2.3}\kernsubsekcyjny Topologie komunikacyjne}{18}
+\contentsline {section}{\numberline {3}\kernsekcyjny PSO w grupowaniu danych}{21}
+\contentsline {section}{\numberline {4}\kernsekcyjny Por\IeC {\'o}wnanie klasycznego PSO do algorytmu PSO w grupowaniu danych}{23}
+\contentsline {section}{\numberline {5}\kernsekcyjny Implementacja}{25}
+\contentsline {section}{\numberline {6}\kernsekcyjny Badania}{27}
+\contentsline {section}{Literatura}{29}

@@ -1,0 +1,14 @@
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Release\ProjektMagisterskiPatrycjaTkocz.exe.config
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Release\ProjektMagisterskiPatrycjaTkocz.exe
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\bin\Release\ProjektMagisterskiPatrycjaTkocz.pdb
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.csprojResolveAssemblyReference.cache
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\MainWindow.g.cs
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\App.g.cs
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz_MarkupCompile.cache
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz_MarkupCompile.lref
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\MainWindow.baml
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.g.resources
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.Properties.Resources.resources
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.csproj.GenerateResource.Cache
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.exe
+C:\Users\Patrycja\Documents\Visual Studio 2015\Projects\ProjektMagisterskiPatrycjaTkocz\ProjektMagisterskiPatrycjaTkocz\obj\Release\ProjektMagisterskiPatrycjaTkocz.pdb
